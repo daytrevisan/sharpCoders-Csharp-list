@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\bin\Debug\net8.0\2454-Fliper.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\bin\Debug\net8.0\2454-Fliper.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\bin\Debug\net8.0\2454-Fliper.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\bin\Debug\net8.0\2454-Fliper.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\bin\Debug\net8.0\2454-Fliper.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\refint\2454-Fliper.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\2454-Fliper.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\2454-Fliper\obj\Debug\net8.0\ref\2454-Fliper.dll
