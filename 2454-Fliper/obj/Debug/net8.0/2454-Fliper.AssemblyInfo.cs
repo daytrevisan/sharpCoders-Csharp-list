@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2454-Fliper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4833c1a25b9b67762061f536f567311a64a69af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b06685f57ae88a96d49d551431f9dc44f35fab78")]
 [assembly: System.Reflection.AssemblyProductAttribute("2454-Fliper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2454-Fliper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
