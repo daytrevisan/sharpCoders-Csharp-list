@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\bin\Debug\net8.0\1078-MultiplicationTable.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\bin\Debug\net8.0\1078-MultiplicationTable.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\bin\Debug\net8.0\1078-MultiplicationTable.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\bin\Debug\net8.0\1078-MultiplicationTable.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\bin\Debug\net8.0\1078-MultiplicationTable.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\refint\1078-MultiplicationTable.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\1078-MultiplicationTable.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1078-MultiplicationTable\obj\Debug\net8.0\ref\1078-MultiplicationTable.dll
