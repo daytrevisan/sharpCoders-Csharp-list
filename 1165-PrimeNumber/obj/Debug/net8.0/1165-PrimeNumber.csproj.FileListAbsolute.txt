@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\bin\Debug\net8.0\1165-PrimeNumber.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\bin\Debug\net8.0\1165-PrimeNumber.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\bin\Debug\net8.0\1165-PrimeNumber.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\bin\Debug\net8.0\1165-PrimeNumber.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\bin\Debug\net8.0\1165-PrimeNumber.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\refint\1165-PrimeNumber.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\1165-PrimeNumber.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1165-PrimeNumber\obj\Debug\net8.0\ref\1165-PrimeNumber.dll
