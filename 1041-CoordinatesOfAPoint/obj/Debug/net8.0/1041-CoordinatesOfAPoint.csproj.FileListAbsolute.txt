@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\bin\Debug\net8.0\1041-CoordinatesOfAPoint.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\bin\Debug\net8.0\1041-CoordinatesOfAPoint.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\bin\Debug\net8.0\1041-CoordinatesOfAPoint.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\bin\Debug\net8.0\1041-CoordinatesOfAPoint.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\bin\Debug\net8.0\1041-CoordinatesOfAPoint.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\refint\1041-CoordinatesOfAPoint.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\1041-CoordinatesOfAPoint.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1041-CoordinatesOfAPoint\obj\Debug\net8.0\ref\1041-CoordinatesOfAPoint.dll
