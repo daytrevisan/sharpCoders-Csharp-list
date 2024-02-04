@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\bin\Debug\net8.0\1101-SequenceOfNumbersAndSum.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\bin\Debug\net8.0\1101-SequenceOfNumbersAndSum.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\bin\Debug\net8.0\1101-SequenceOfNumbersAndSum.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\bin\Debug\net8.0\1101-SequenceOfNumbersAndSum.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\bin\Debug\net8.0\1101-SequenceOfNumbersAndSum.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\refint\1101-SequenceOfNumbersAndSum.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\1101-SequenceOfNumbersAndSum.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1101-SequenceOfNumbersAndSum\obj\Debug\net8.0\ref\1101-SequenceOfNumbersAndSum.dll
