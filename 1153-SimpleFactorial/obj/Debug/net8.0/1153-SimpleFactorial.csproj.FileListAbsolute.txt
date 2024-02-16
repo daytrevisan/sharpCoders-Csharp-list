@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\bin\Debug\net8.0\1153-SimpleFactorial.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\bin\Debug\net8.0\1153-SimpleFactorial.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\bin\Debug\net8.0\1153-SimpleFactorial.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\bin\Debug\net8.0\1153-SimpleFactorial.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\bin\Debug\net8.0\1153-SimpleFactorial.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\refint\1153-SimpleFactorial.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\1153-SimpleFactorial.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1153-SimpleFactorial\obj\Debug\net8.0\ref\1153-SimpleFactorial.dll
