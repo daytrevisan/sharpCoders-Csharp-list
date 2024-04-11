@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\bin\Debug\net8.0\1064-PositivesAndAverage.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\bin\Debug\net8.0\1064-PositivesAndAverage.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\bin\Debug\net8.0\1064-PositivesAndAverage.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\bin\Debug\net8.0\1064-PositivesAndAverage.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\bin\Debug\net8.0\1064-PositivesAndAverage.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\refint\1064-PositivesAndAverage.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\1064-PositivesAndAverage.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1064-PositivesAndAverage\obj\Debug\net8.0\ref\1064-PositivesAndAverage.dll
