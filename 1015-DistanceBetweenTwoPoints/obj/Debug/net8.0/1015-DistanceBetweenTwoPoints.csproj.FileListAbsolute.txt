@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\bin\Debug\net8.0\1015-DistanceBetweenTwoPoints.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\bin\Debug\net8.0\1015-DistanceBetweenTwoPoints.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\bin\Debug\net8.0\1015-DistanceBetweenTwoPoints.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\bin\Debug\net8.0\1015-DistanceBetweenTwoPoints.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\bin\Debug\net8.0\1015-DistanceBetweenTwoPoints.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\refint\1015-DistanceBetweenTwoPoints.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\1015-DistanceBetweenTwoPoints.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1015-DistanceBetweenTwoPoints\obj\Debug\net8.0\ref\1015-DistanceBetweenTwoPoints.dll
