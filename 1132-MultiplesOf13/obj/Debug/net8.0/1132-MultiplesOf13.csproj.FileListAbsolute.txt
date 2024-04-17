@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\bin\Debug\net8.0\1132-MultiplesOf13.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\bin\Debug\net8.0\1132-MultiplesOf13.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\bin\Debug\net8.0\1132-MultiplesOf13.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\bin\Debug\net8.0\1132-MultiplesOf13.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\bin\Debug\net8.0\1132-MultiplesOf13.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\refint\1132-MultiplesOf13.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\1132-MultiplesOf13.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1132-MultiplesOf13\obj\Debug\net8.0\ref\1132-MultiplesOf13.dll
