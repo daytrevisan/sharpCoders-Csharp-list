@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\bin\Debug\net8.0\1042-SimpleSort.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\bin\Debug\net8.0\1042-SimpleSort.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\bin\Debug\net8.0\1042-SimpleSort.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\bin\Debug\net8.0\1042-SimpleSort.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\bin\Debug\net8.0\1042-SimpleSort.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\refint\1042-SimpleSort.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\1042-SimpleSort.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1042-SimpleSort\obj\Debug\net8.0\ref\1042-SimpleSort.dll
