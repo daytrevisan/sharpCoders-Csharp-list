@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\bin\Debug\net8.0\1075-RemainingTwo.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\bin\Debug\net8.0\1075-RemainingTwo.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\bin\Debug\net8.0\1075-RemainingTwo.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\bin\Debug\net8.0\1075-RemainingTwo.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\bin\Debug\net8.0\1075-RemainingTwo.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\refint\1075-RemainingTwo.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\1075-RemainingTwo.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\SharpCoders\Github\Csharp-Beecrowd\1075-RemainingTwo\obj\Debug\net8.0\ref\1075-RemainingTwo.dll
